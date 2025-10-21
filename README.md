@@ -1,4 +1,4 @@
-# ResearchBot - AI-Powered Research Assistant for PhD Students
+# Acadia - AI Research Assistant
 
 ## Mission
 ResearchBot is an intelligent research assistant designed specifically for PhD students and academic researchers. It helps streamline the research process by providing AI-powered assistance with literature management, writing support, research planning, and collaboration tools.
@@ -77,5 +77,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [@kkschauhan](https://github.com/kkschauhan)
 - [@shreyaxgarg](https://github.com/shreyaxgarg)
 
-## Support
-For support, please open an issue on GitHub or contact us at [your-email@domain.com]
