@@ -73,7 +73,5 @@ We welcome contributions from the academic community! Please feel free to submit
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Developers
-- [@kkschauhan](https://github.com/kkschauhan)
-- [@shreyaxgarg](https://github.com/shreyaxgarg)
+
 
